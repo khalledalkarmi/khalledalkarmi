@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **khalledalkarmi/khalledalkarmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+
+I'm Khalled Alkarmi, I'm Khalled Alkarmi. I am a tech enthusiast and an open-source advocate. Always willing to collaborate on projects and novel or disruptive ideas. 
 
 ## ⚡ Technologies
 
